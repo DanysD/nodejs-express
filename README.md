@@ -22,8 +22,7 @@ HMACSHA256(
   base64UrlEncode(payload),
   secret)
   
-Por que usar o JWT?
-- Ele é simples de manipular qualquer linguagem e leve para ser tranportado pela rede e é seguro.
+Por que usar o JWT - Ele é simples de manipular qualquer linguagem e leve para ser tranportado pela rede e é seguro.
 
 
 COOKIE - É um arquivo de texto. A maioria dos sites armazenam informações básicas, como endereços IP, cores, etc. Em portais como o GMAIL e o Hotmail, nomes de usuários e senhas de email também fazem partes dos Cookies. 
